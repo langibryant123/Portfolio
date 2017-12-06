@@ -1,1 +1,19 @@
-asdf
+body, html{
+	height:100%;
+}
+
+
+
+.parallax { 
+    /* The image used */
+    background-image: url("http://www.reuun.com/data/out/127/403583574-technical-wallpapers.jpg");
+
+    /* Set a specific height */
+    height: 75%; 
+
+
+}
+
+.aboutText{
+	border: 30px 20px;
+}
